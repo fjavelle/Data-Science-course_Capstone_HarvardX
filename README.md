@@ -4,6 +4,6 @@ This project aims to create a proper recommendation system using the 10 Million 
 These reports include different levels of analysis: 
 - Data exploration
 - Reshaping of some parameter 
-- Training of the recommandation system
-- Testing of the recommandation system 
+- Training of the recommendation system
+- Testing of the recommendation system 
 The best RMSE obtained was 0.8645.
