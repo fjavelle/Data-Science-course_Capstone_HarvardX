@@ -5,5 +5,5 @@ These reports include different levels of analysis:
 - Data exploration
 - Reshaping of some parameter 
 - Training of the recommendation system
-- Testing of the recommendation system 
+- Testing of the recommendation system ==>
 The best RMSE obtained was 0.8645.
